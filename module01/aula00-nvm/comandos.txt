@@ -1,0 +1,11 @@
+Node Version Manager
+
+nvm install 18 -> instala a versao 18 do node
+nvm list
+nvm use 18 -> use a versao 18 que ja esta instalada
+nvm alias default 18 -> define a versao padrao do node js para ser a 18
+
+
+//criar um arquivo .nvmrx com a versao desejada
+node -v > .nvmrc
+
